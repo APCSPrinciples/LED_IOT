@@ -10,12 +10,12 @@ Then, check the box labeled *remote pad*
 ![](IOT2.png)   
 Click somewhere in the remote pad   
 ![](IOT3.png)   
-## Step 3: Configure Scratch to respond to the remote pad
+### Step 3: Configure Scratch to respond to the remote pad
 In the pull down menu of the sensor block choose *remoteX*.   
 ![](IOT4.png)   
   
 
-## Step 4: Write code to turn the LED on and off with the remote pad
+### Step 4: Write code to turn the LED on and off with the remote pad
 You will need to add:
 - 1 *forever loop* block from the *Control* tab
 - 1 *if else* block from the *Control* tab
@@ -25,8 +25,12 @@ You will need to add:
 Snap the blocks together as shown below. Click the blocks to run the program.
 ![](IOT7.png)   
 
-## Step 5: Click on the left and right of the remote pad
+### Step 5: Click on the left and right of the remote pad
 You should now be able to turn the LED on and off from the remote computer using the remote pad 
 
-### Step 6: Submit the finished program
+### Step 6: Capture some packets of communication
+Start the wireshark program. While it is running, turn the LED on and off. You should see `http` packets that are traveling back and forth between the computer with the Arduino and the remote computer.   
+![](IOT8.png)
+
+### Step 7: Submit the finished program
 Have your teacher or a TA verify that you have a working program. Then, submit your finished program by uploading the `.sb` file to Google classroom. You should be able to find it in *My Documents | Scratch Projects* as shown below. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom. 
