@@ -4,7 +4,9 @@ In this lab we will use the circuit from the previous lab. We will write a progr
 Drag a *slider sensor value* block to Scripts. Then choose *Edit | Host Mesh*. Agree to any security warnings. Make a note of the IP address of the computer that is connected to the Arduino.   
 ![](IOT1.png)    
 ### Step 2: Connect to your Scratch program from another computer
-On your partners computer or smartphone, open a browser and enter the URL: [http://s4a.cat/android/index.html](http://s4a.cat/android/index.html). You'll need to enter the IP address you made a note of, that is the IP address of the computer that is connected to the Arduino. Enter the IP address in the browser window and click *Connect*. Then, check the box labeled *remote pad*   
+On your partners computer or smartphone, open a browser and enter the URL: [http://s4a.cat/android/index.html](http://s4a.cat/android/index.html). You'll need to enter the IP address you made a note of, that is the IP address of the computer that is connected to the Arduino. Enter the IP address in the browser window and click *Connect*.   
+![](IOT1half.png)   
+Then, check the box labeled *remote pad*   
 ![](IOT2.png)   
 Click somewhere in the remote pad   
 ![](IOT3.png)   
