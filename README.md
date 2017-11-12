@@ -11,7 +11,7 @@ Click somewhere in the remote pad
 ## Step 3: Write Scratch code on the computer connected to the Arduino
 Drag a *slider sensor value* block to Scripts. Right click on the block and choose *Remote X*.   
 ![](IOT4.png)   
-Now write some code to test the connection
+Now write some code to test the connection   
 ![](IOT5.png)   
 
 ## Step 4: Click on the remote pad of the remote computer
