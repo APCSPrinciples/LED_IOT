@@ -28,3 +28,6 @@ You will need to add:
 - 1 *> (greater than)* block from the *Operators* tab
 ![](IOT7.png)   
 You should now be able to turn the LED on and off from the remote computer using the remote pad 
+
+### Step 6: Submit the finished program
+Have your teacher or a TA verify that you have a working program. Then, submit your finished program by uploading the `.sb` file to Google classroom. You should be able to find it in *My Documents | Scratch Projects* as shown below. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom. 
