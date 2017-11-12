@@ -3,11 +3,11 @@ In this lab we will use the circuit from the previous lab and program the Arduin
 ### Step 1: Create a new program in Scratch for Arduino
 ### Step 2: Connect to your Scratch program from another computer
 On your partners, open a browser and enter the URL: [http://s4a.cat/android/index.html](http://s4a.cat/android/index.html). You'll need to enter the IP address of the computer that is connected to the Arduino. Go back to the computer that is connected to the Arduino and choose *Edit | Host Mesh.* Click to accept any security warning message. The IP address should be displayed. Enter the IP address in the browser window and click *Connect*.     
-![](IOT1.png)   
-Then, check the box labeled *remote pad*
+![](IOT1.png)    
+Then, check the box labeled *remote pad*   
 ![](IOT2.png)   
 Click somewhere in the remote pad   
-![](IOT3.png)
+![](IOT3.png)   
 ## Step 3: Write Scratch code on the computer connected to the Arduino
 Drag a *slider sensor value* block to Scripts. Right click on the block and choose *Remote X*.   
 ![](IOT4.png)   
