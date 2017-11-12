@@ -10,18 +10,12 @@ Then, check the box labeled *remote pad*
 ![](IOT2.png)   
 Click somewhere in the remote pad   
 ![](IOT3.png)   
-## Step 3: Write Scratch code on the computer connected to the Arduino
+## Step 3: Configure Scratch to respond to the remote pad
 In the pull down menu of the sensor block choose *remoteX*.   
 ![](IOT4.png)   
-Now write some code to test the connection   
-![](IOT5.png)   
+  
 
-## Step 4: Click on the remote pad of the remote computer
-Go back to the remote computer or smartphone and click somewhere left and right in the remote pad.   
-![](IOT6.png)   
-The output form the computer's Scratch code should match the X position where the remote pad was clicked.   
-
-## Step 5: Write code to turn the LED on and off with the remote pad
+## Step 4: Write code to turn the LED on and off with the remote pad
 You will need to add:
 - 1 *forever loop* block from the *Control* tab
 - 1 *if else* block from the *Control* tab
@@ -29,6 +23,8 @@ You will need to add:
 - 1 *digital 13 off* block from the *Motion* tab
 - 1 *> (greater than)* block from the *Operators* tab
 ![](IOT7.png)   
+
+## Step 5: Click on the left and right of the remote pad
 You should now be able to turn the LED on and off from the remote computer using the remote pad 
 
 ### Step 6: Submit the finished program
