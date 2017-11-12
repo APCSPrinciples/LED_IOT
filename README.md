@@ -29,7 +29,7 @@ Snap the blocks together as shown below. Click the blocks to run the program.
 You should now be able to turn the LED on and off from the remote computer using the remote pad 
 
 ### Step 6: Capture some packets of communication
-Start the wireshark program. While it is running, turn the LED on and off. You should see `http` packets that are traveling back and forth between the computer with the Arduino and the remote pad. You should be able to see the X and Y coordinates in the data packets.   
+Start the wireshark program. While it is running, turn the LED on and off. You should see `http` packets that are being sent from remote pad to control the LED remotely. You should be able to see the X and Y coordinates in the data packets.   
 ![](IOT8.png)
 
 ### Step 7: Submit the finished program
