@@ -1,5 +1,5 @@
 # Turn a LED on and off over the Internet
-In this lab we will use the circuit from the previous lab. We will write a program that allows the LED to be turned on and offby another device (either a computer or smartphone) over the Internet. For this lab it will convenient to have a partner. One person will connect the Arduino to their computer. The other person will connect to it using either a computer or a smartphone.
+In this lab we will use the circuit from the previous lab. We will write a program that allows the LED to be turned on and off by another device (either a computer or smartphone) over the Internet. For this lab it will convenient to have a partner. One person will connect the Arduino to their computer. The other person will connect to it using either a computer or a smartphone.
 ### Step 1: Create a new program in Scratch for Arduino
 Drag a *slider sensor value* block to Scripts. Then choose *Edit | Host Mesh*. Agree to any security warnings. Make a note of the IP address of the computer that is connected to the Arduino.   
 ![](IOT1.png)    
