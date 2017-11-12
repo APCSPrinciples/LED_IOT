@@ -21,7 +21,8 @@ You will need to add:
 - 1 *if else* block from the *Control* tab
 - 1 *digital 13 on* block from the *Motion* tab
 - 1 *digital 13 off* block from the *Motion* tab
-- 1 *> (greater than)* block from the *Operators* tab
+- 1 *> (greater than)* block from the *Operators* tab   
+Snap the blocks together as shown below. Click the blocks to run the program.
 ![](IOT7.png)   
 
 ## Step 5: Click on the left and right of the remote pad
