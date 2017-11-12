@@ -1,4 +1,4 @@
-# Turn an LED on and off over the Internet
+# Turn a LED on and off over the Internet
 In this lab we will use the circuit from the previous lab and program the Arduino to turn the LED on and off, either using another computer or an Android smartphone. You will need a partner. One person will connect the Arduino to their computer. The other person will connect to it using either a computer or an Android smartphone.
 ### Step 1: Create a new program in Scratch for Arduino
 ### Step 2: Connect to your Scratch program from another computer
