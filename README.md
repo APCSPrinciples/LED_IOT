@@ -24,7 +24,8 @@ One way to do this might use the following blocks:
 - 1 *if else* block from the *Control* tab
 - 1 *digital 13 on* block from the *Motion* tab
 - 1 *digital 13 off* block from the *Motion* tab
-- 1 *> (greater than)* block from the *Operators* tab   
+- 1 *> (greater than)* block from the *Operators* tab  
+
 Snap the blocks together and arrange them so that there is a forever loop that checks to see if the `remoteX` is greater than zero. If it is, turn the LED on. Otherwise, turn it off. Make sure to click the blocks to run the program.
  
 
