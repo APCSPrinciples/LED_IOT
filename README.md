@@ -1,5 +1,5 @@
 # Turn a LED on and off over the Internet
-In this lab we will use the circuit from the previous lab. This is similar to way IoT devices work. (IoT short for "Internet of Things.") We will write a program that allows the LED from the previous lab to be turned on and off by another device (e.g. a computer or smartphone) over the Internet. For this lab it will be convenient to have a partner. One person will connect the Arduino to their computer. The other person will use a second computer or a smartphone to contorl it.
+In this lab we will use the circuit from the previous lab. We will write a program that allows the LED from the previous lab to be turned on and off by another device (e.g. a computer or smartphone) over the Internet. This is similar to way IoT devices work. (IoT is short for "Internet of Things.") For this lab it will be convenient to have a partner. One person can connect the Arduino to their computer. The other person will use a second computer or a smartphone to control it.
 ### Step 1: Create a new program in Scratch for Arduino and enable a remote Internet connection
 Drag a *slider sensor value* block to Scripts. To enable a remote Internet connection choose *Edit | Host Mesh*.   
 ![](IOT1.png)    
