@@ -6,7 +6,7 @@ Drag a *slider sensor value* block to Scripts. To enable a remote Internet conne
 After choosing *Edit | Host Mesh* a pop up should appear that shows the computers IP address. Make a note of the IP address as we will need it later.   
    
 ### Step 2: Connect to your Scratch program from another computer
-On your partners computer or smartphone, open a browser and enter the URL: [http://s4a.cat/android/index.html](http://s4a.cat/android/index.html). You'll need to enter the IP address you made a note of, that is the IP address of the computer that is connected to the Arduino. Enter the IP address in the browser window and click *Connect*.   
+On your partners computer or smartphone, open a browser and enter the URL: [s4a.cat/android/](http://s4a.cat/android/index.html). You'll need to enter the IP address you made a note of, that is the IP address of the computer that is connected to the Arduino. Enter the IP address in the browser window and click *Connect*.   
 ![](IOT1half.png)   
 Then, check the box labeled *Remote Pad*   
 ![](IOT2.png)   
