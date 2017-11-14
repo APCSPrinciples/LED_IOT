@@ -36,4 +36,4 @@ We can see the packets that are traveling across the Internet to control the Ard
 ![](IOT8.png)
 
 ### Step 7: Submit the finished program
-Have your teacher or a TA verify that you have a working program and have captured packets that were being used to control the Arduino remotely. Submit your finished program by uploading the `.sb` file to Google classroom. You should be able to find it in *My Documents | Scratch Projects* as shown below. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom. 
+Have your teacher or a TA verify that you have a working program and have captured packets that were being used to control the Arduino remotely. Submit your finished program by uploading the `.sb` file to Google classroom. You should be able to find it in *My Documents | Scratch Projects*. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom. 
