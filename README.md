@@ -1,4 +1,4 @@
-# Turn a LED on and off using an IP address
+# Turn a LED on and off from another computer or smartphone
 In this lab we will use the circuit from the previous lab. We will write a program that allows the LED from the previous lab to be turned on and off by another device (e.g. a computer or smartphone) over the network using an IP address. This is similar to way IoT devices work. (IoT is short for "Internet of Things.") For this lab it will be convenient to have a partner. One person can connect the Arduino to their computer. The other person will use a second computer or a smartphone to control it.
 ### Step 1: Create a new program in Scratch for Arduino and enable a remote network connection
 Drag a *slider sensor value* block to Scripts. To enable a remote network connection choose *Edit | Host Mesh*.   
