@@ -16,7 +16,7 @@ Click somewhere in the remote pad
 ![](IOT3.png)   
 
 ### Step 3: Configure Scratch to respond to the remote pad
-In the pull down menu of the sensor block choose *remoteX*.   
+In the pull down menu of the sensor block choose *remoteX*. (If *remoteX* doesn't appear in the pull down menu, make sure you have clicked in the remote pad of the other computer or smartphone to make the connection)  
 ![](IOT4.png)   
   
 
