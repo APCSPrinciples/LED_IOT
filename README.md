@@ -1,12 +1,14 @@
-# Turn a LED on and off over the Internet
-In this lab we will use the circuit from the previous lab. We will write a program that allows the LED from the previous lab to be turned on and off by another device (e.g. a computer or smartphone) over the Internet. This is similar to way IoT devices work. (IoT is short for "Internet of Things.") For this lab it will be convenient to have a partner. One person can connect the Arduino to their computer. The other person will use a second computer or a smartphone to control it.
-### Step 1: Create a new program in Scratch for Arduino and enable a remote Internet connection
-Drag a *slider sensor value* block to Scripts. To enable a remote Internet connection choose *Edit | Host Mesh*.   
+# Turn a LED on and off using an IP address
+In this lab we will use the circuit from the previous lab. We will write a program that allows the LED from the previous lab to be turned on and off by another device (e.g. a computer or smartphone) over the network using an IP address. This is similar to way IoT devices work. (IoT is short for "Internet of Things.") For this lab it will be convenient to have a partner. One person can connect the Arduino to their computer. The other person will use a second computer or a smartphone to control it.
+### Step 1: Create a new program in Scratch for Arduino and enable a remote network connection
+Drag a *slider sensor value* block to Scripts. To enable a remote network connection choose *Edit | Host Mesh*.   
 ![](IOT1.png)    
 After choosing *Edit | Host Mesh* a pop up should appear that shows the computers IP address. Make a note of the IP address as we will need it later.   
    
 ### Step 2: Connect to your Scratch program from another computer
-On your partners computer or smartphone, open a browser and enter the URL: [s4a.cat/android/](http://s4a.cat/android/index.html). You'll need to enter the IP address you made a note of, that is the IP address of the computer that is connected to the Arduino. Enter the IP address in the browser window and click *Connect*.   
+On your partners computer or smartphone, open a browser and enter the URL: [s4a.cat/android/](http://s4a.cat/android/index.html). (Note that the computer or smartphone will need to be connected to the schools SFUSD network either with an Ethernet cable or via Wifi. Trying to connect with the SFUSD guest network or over a cell phone network won't work.)   
+
+You'll need to enter the IP address you made a note of, that is the IP address of the computer that is connected to the Arduino. Enter the IP address in the browser window and click *Connect*.   
 ![](IOT1half.png)   
 Then, check the box labeled *Remote Pad*   
 ![](IOT2.png)   
